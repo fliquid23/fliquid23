@@ -18,8 +18,11 @@ Skills
 
 
 Programming Languages: Python, Java, C++
-Web Development: HTML, CSS, JavaScript, React
+
+Web Development: HTML, CSS, JavaScript
+
 Databases: SQLServer, PostgreSQL
+
 Tools: Git, Docker, VS Code
 
 Get in Touch
